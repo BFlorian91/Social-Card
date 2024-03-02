@@ -3,6 +3,7 @@
 ## Aperçu
 
 Ce projet constitue une introduction pratique à l'intégration HTML et CSS, mettant en scène une carte de profil utilisateur. Elle affiche une image, des informations de base, et des liens vers les réseaux sociaux et un contact email.
+![image](./preview_1.png)
 
 ## Structure
 
