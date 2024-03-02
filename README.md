@@ -24,13 +24,15 @@ Ce projet est conçu pour vous initier au développement front-end, mais l'appre
 
 ## Instructions
 
-1. **Explorez le HTML** pour comprendre la structure de la page.
-2. **Modifiez le CSS** pour personnaliser le design. Jouez avec les couleurs, la typographie, et le layout.
-3. **Rendez la page responsive** en ajustant le CSS pour différents écrans.
-4. **Validez le code** en utilisant un outil en ligne pour s'assurer de sa conformité aux standards.
+1. **Explorez le HTML** : Créez la structure de votre carte de profil avec HTML, incluant image, nom, localisation, et liens vers réseaux sociaux et email.
+2. **Personnalisez avec CSS** : Stylisez votre carte. Jouez avec couleurs, typographie, et mise en page pour un design unique.
+3. **Adaptez au responsive** : Assurez-vous que votre carte s'adapte à tous les écrans avec du CSS responsive.
+4. **Validez votre code** : Utilisez un outil en ligne pour vérifier la conformité de votre HTML et CSS aux standards.
+
+[`HTML Validator`](https://validator.w3.org/) et [`CSS Validator`](https://jigsaw.w3.org/css-validator/)
 
 ## Bonus
 
-- Expérimentez avec des animations CSS pour les liens.
+- Expérimentez avec des animations CSS pour les liens, les images...
 - Améliorez l'accessibilité, notamment pour les utilisateurs de lecteurs d'écran.
 - Ajoutez des fonctionnalités interactives via JavaScript pour une expérience utilisateur enrichie.
